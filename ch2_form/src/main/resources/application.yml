@@ -1,0 +1,11 @@
+server:
+  port: 7777
+  web:
+    resources:   # springmvc指定静态页面的位置
+      static-locations: [classpath:/public/,classpath:/resources/,classpath:/META-INF/resources/,classpath:/static/]
+
+spring:
+  security:
+    user:
+      name: zy
+      password: 123

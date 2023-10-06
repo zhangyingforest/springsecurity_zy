@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/ch1_http/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch2_form/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3_authBaseOnMemory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch4_authBaseOnDatabase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch5_captcha/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch6_passwordEncoder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch7_logout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch8_cors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch8_webclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

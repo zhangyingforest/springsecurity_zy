@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="280752a1-78cc-45fd-8bac-afe1618d270b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\MavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2WKAOic5BEyScZf6p2JfjYoDMSw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ch8_cors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ch8_cors/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ideaprojects\springsecurity_zy\ch8_cors\src\main\resources" />
+      <recent name="C:\ideaprojects\springsecurity_zy\ch8_cors\src\main\java" />
+      <recent name="C:\ideaprojects\springsecurity_zy\ch8_webclient\src\main\resources" />
+      <recent name="C:\ideaprojects\springsecurity_zy\ch7_logout\src\main\resources" />
+      <recent name="C:\ideaprojects\springsecurity_zy\ch7_logout\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Ch7_logout (1)">
+    <configuration name="SecurityConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yc.config.SecurityConfig" />
+      <module name="ch6_passwordEncoder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch1App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ch1_http" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch1App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch2FormApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ch2_form" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch2FormApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch4_authBaseOnDatabaseApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ch4_authBaseOnDatabase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch4_authBaseOnDatabaseApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch5_captchaApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ch6_passwordEncoder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch5_captchaApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch5_captchaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ch5_captcha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch5_captchaApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch7_logout (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ch8_cors" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch8_cors_8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch7_logout" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ch7_logout" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch7_logout" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch8_webclient_9999" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ch8_webclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch8_webclient_9999" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter31Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ch3_authBaseOnMemory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.Ch3_authBaseOnMemoryApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Ch8_webclient_9999" />
+        <item itemvalue="Spring Boot.Ch7_logout" />
+        <item itemvalue="Application.SecurityConfig" />
+        <item itemvalue="Spring Boot.Ch5_captchaApp" />
+        <item itemvalue="Spring Boot.Ch4_authBaseOnDatabaseApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zy\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="280752a1-78cc-45fd-8bac-afe1618d270b" name="Default Changelist" comment="" />
+      <created>1696470867807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696470867807</updated>
+      <workItem from="1696470872043" duration="11276000" />
+      <workItem from="1696494423857" duration="2042000" />
+      <workItem from="1696557386978" duration="15856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1696574290258">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696574290258" />
+    <state x="443" y="350" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1696578735665">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696494437268" />
+    <state x="443" y="350" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696578735665" />
+    <state width="1556" height="222" key="GridCell.Tab.0.bottom" timestamp="1696579592987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696495818467" />
+    <state width="1556" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579592987" />
+    <state width="1556" height="222" key="GridCell.Tab.0.center" timestamp="1696579592987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="272" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696495818467" />
+    <state width="1556" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579592987" />
+    <state width="1556" height="222" key="GridCell.Tab.0.left" timestamp="1696579592987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="272" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696495818467" />
+    <state width="1556" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579592987" />
+    <state width="1556" height="222" key="GridCell.Tab.0.right" timestamp="1696579592987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="272" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696495818467" />
+    <state width="1556" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579592987" />
+    <state width="1556" height="222" key="GridCell.Tab.1.bottom" timestamp="1696579592987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="272" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696495818468" />
+    <state width="1556" height="222" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579592987" />
+    <state width="1556" height="222" key="GridCell.Tab.1.center" timestamp="1696579592987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="272" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696495818468" />
+    <state width="1556" height="222" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579592987" />
+    <state width="1556" height="222" key="GridCell.Tab.1.left" timestamp="1696579592987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="272" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696495818467" />
+    <state width="1556" height="222" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579592987" />
+    <state width="1556" height="222" key="GridCell.Tab.1.right" timestamp="1696579592987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="272" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696495818468" />
+    <state width="1556" height="222" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579592987" />
+    <state width="1556" height="229" key="GridCell.Tab.2.bottom" timestamp="1696561352902">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="187" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696494413487" />
+    <state width="1556" height="229" key="GridCell.Tab.2.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696561352902" />
+    <state width="1556" height="229" key="GridCell.Tab.2.center" timestamp="1696561352902">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="187" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696494413483" />
+    <state width="1556" height="229" key="GridCell.Tab.2.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696561352902" />
+    <state width="1556" height="229" key="GridCell.Tab.2.left" timestamp="1696561352902">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="187" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696494413483" />
+    <state width="1556" height="229" key="GridCell.Tab.2.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696561352902" />
+    <state width="1556" height="229" key="GridCell.Tab.2.right" timestamp="1696561352902">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1492" height="187" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696494413485" />
+    <state width="1556" height="229" key="GridCell.Tab.2.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696561352902" />
+    <state x="599" y="207" key="chooseDestDirectoryDialog" timestamp="1696579597686">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="599" y="207" key="chooseDestDirectoryDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696579597686" />
+    <state x="418" y="75" key="new project wizard" timestamp="1696578280025">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="401" y="72" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696494028197" />
+    <state x="418" y="75" key="new project wizard/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696578280025" />
+    <state x="449" y="151" width="700" height="708" key="search.everywhere.popup" timestamp="1696572652071">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1696472238543" />
+    <state x="449" y="151" width="700" height="708" key="search.everywhere.popup/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1696572652071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch4_authBaseOnDatabase/src/main/java/com/yc/service/MyUserDetailsService.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch4_authBaseOnDatabase/src/main/java/com/yc/service/MyUserDetailsService.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch5_captcha/src/main/java/com/yc/authentication/SecurityAuthenticationSuccessHandler.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch5_captcha/src/main/java/com/yc/authentication/SecurityAuthenticationSuccessHandler.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch5_captcha/src/main/java/com/yc/config/authentication/MyAuthenticationProvider.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../MavenRepository/org/springframework/security/spring-security-core/5.7.1/spring-security-core-5.7.1.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class</url>
+          <line>32</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../MavenRepository/org/springframework/security/spring-security-web/5.7.1/spring-security-web-5.7.1-sources.jar!/org/springframework/security/web/authentication/SavedRequestAwareAuthenticationSuccessHandler.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
